@@ -1,0 +1,40 @@
+# GIMP controllerrc
+# 
+# This file will be entirely rewritten each time you exit.
+
+(GimpControllerInfo "Main Mouse Wheel"
+    (stock-id "gimp-controller-wheel")
+    (enabled yes)
+    (debug-events no)
+    (controller "GimpControllerWheel")
+    (mapping
+        (map "scroll-down-shift-control-alt" "context-font-select-previous")
+        (map "scroll-up-shift-control-alt" "context-font-select-next")
+        (map "scroll-down-alt" "tools-value-1-decrease-skip")
+        (map "scroll-up-control-alt" "context-gradient-select-next")
+        (map "scroll-down-shift-control" "context-brush-select-previous")
+        (map "scroll-up-alt" "tools-value-1-increase-skip")
+        (map "scroll-up-shift-alt" "context-pattern-select-next")
+        (map "scroll-down-shift-alt" "context-pattern-select-previous")
+        (map "scroll-up-shift-control" "context-brush-select-next")
+        (map "scroll-down-control-alt" "context-gradient-select-previous")))
+(GimpControllerInfo "Main Keyboard"
+    (stock-id "gimp-controller-keyboard")
+    (enabled yes)
+    (debug-events no)
+    (controller "GimpControllerKeyboard")
+    (mapping
+        (map "cursor-left-alt" "tools-value-1-decrease")
+        (map "cursor-right-shift" "view-scroll-page-right")
+        (map "cursor-right-alt" "tools-value-1-increase")
+        (map "cursor-up-control" "view-scroll-top-border")
+        (map "cursor-left-shift" "view-scroll-page-left")
+        (map "cursor-right-control" "view-scroll-right-border")
+        (map "cursor-down-control" "view-scroll-bottom-border")
+        (map "cursor-left-control" "view-scroll-left-border")
+        (map "cursor-up-shift" "view-scroll-page-up")
+        (map "cursor-up-alt" "tools-value-1-increase-skip")
+        (map "cursor-down-shift" "view-scroll-page-down")
+        (map "cursor-down-alt" "tools-value-1-decrease-skip")))
+
+# end of controllerrc

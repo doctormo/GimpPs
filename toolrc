@@ -1,0 +1,136 @@
+# GIMP toolrc
+
+(GimpToolInfo "gimp-move-tool"
+    (stock-id "gimp-tool-move")
+    (visible yes))
+(GimpToolInfo "gimp-rect-select-tool"
+    (stock-id "gimp-tool-rect-select")
+    (visible yes))
+(GimpToolInfo "gimp-ellipse-select-tool"
+    (stock-id "gimp-tool-ellipse-select")
+    (visible yes))
+(GimpToolInfo "gimp-free-select-tool"
+    (stock-id "gimp-tool-free-select")
+    (visible yes))
+(GimpToolInfo "gimp-fuzzy-select-tool"
+    (stock-id "gimp-tool-fuzzy-select")
+    (visible yes))
+(GimpToolInfo "gimp-by-color-select-tool"
+    (stock-id "gimp-tool-by-color-select")
+    (visible yes))
+(GimpToolInfo "gimp-iscissors-tool"
+    (stock-id "gimp-tool-iscissors")
+    (visible yes))
+(GimpToolInfo "gimp-foreground-select-tool"
+    (stock-id "gimp-tool-foreground-select")
+    (visible yes))
+(GimpToolInfo "gimp-crop-tool"
+    (stock-id "gimp-tool-crop")
+    (visible yes))
+(GimpToolInfo "gimp-vector-tool"
+    (stock-id "gimp-tool-path")
+    (visible yes))
+(GimpToolInfo "gimp-measure-tool"
+    (stock-id "gimp-tool-measure")
+    (visible yes))
+(GimpToolInfo "gimp-align-tool"
+    (stock-id "gimp-tool-align")
+    (visible yes))
+(GimpToolInfo "gimp-rotate-tool"
+    (stock-id "gimp-tool-rotate")
+    (visible yes))
+(GimpToolInfo "gimp-scale-tool"
+    (stock-id "gimp-tool-scale")
+    (visible yes))
+(GimpToolInfo "gimp-shear-tool"
+    (stock-id "gimp-tool-shear")
+    (visible yes))
+(GimpToolInfo "gimp-perspective-tool"
+    (stock-id "gimp-tool-perspective")
+    (visible yes))
+(GimpToolInfo "gimp-flip-tool"
+    (stock-id "gimp-tool-flip")
+    (visible yes))
+(GimpToolInfo "gimp-cage-tool"
+    (stock-id "gimp-tool-cage")
+    (visible yes))
+(GimpToolInfo "gimp-text-tool"
+    (stock-id "gimp-tool-text")
+    (visible yes))
+(GimpToolInfo "gimp-bucket-fill-tool"
+    (stock-id "gimp-tool-bucket-fill")
+    (visible yes))
+(GimpToolInfo "gimp-blend-tool"
+    (stock-id "gimp-tool-blend")
+    (visible yes))
+(GimpToolInfo "gimp-pencil-tool"
+    (stock-id "gimp-tool-pencil")
+    (visible yes))
+(GimpToolInfo "gimp-paintbrush-tool"
+    (stock-id "gimp-tool-paintbrush")
+    (visible yes))
+(GimpToolInfo "gimp-eraser-tool"
+    (stock-id "gimp-tool-eraser")
+    (visible yes))
+(GimpToolInfo "gimp-airbrush-tool"
+    (stock-id "gimp-tool-airbrush")
+    (visible yes))
+(GimpToolInfo "gimp-ink-tool"
+    (stock-id "gimp-tool-ink")
+    (visible yes))
+(GimpToolInfo "gimp-clone-tool"
+    (stock-id "gimp-tool-clone")
+    (visible yes))
+(GimpToolInfo "gimp-heal-tool"
+    (stock-id "gimp-tool-heal")
+    (visible yes))
+(GimpToolInfo "gimp-perspective-clone-tool"
+    (stock-id "gimp-tool-perspective-clone")
+    (visible yes))
+(GimpToolInfo "gimp-color-picker-tool"
+    (stock-id "gimp-tool-color-picker")
+    (visible yes))
+(GimpToolInfo "gimp-convolve-tool"
+    (stock-id "gimp-tool-blur")
+    (visible yes))
+(GimpToolInfo "gimp-smudge-tool"
+    (stock-id "gimp-tool-smudge")
+    (visible yes))
+(GimpToolInfo "gimp-dodge-burn-tool"
+    (stock-id "gimp-tool-dodge")
+    (visible yes))
+(GimpToolInfo "gimp-zoom-tool"
+    (stock-id "gimp-tool-zoom")
+    (visible yes))
+(GimpToolInfo "gimp-desaturate-tool"
+    (stock-id "gimp-tool-desaturate")
+    (visible no))
+(GimpToolInfo "gimp-color-balance-tool"
+    (stock-id "gimp-tool-color-balance")
+    (visible no))
+(GimpToolInfo "gimp-hue-saturation-tool"
+    (stock-id "gimp-tool-hue-saturation")
+    (visible no))
+(GimpToolInfo "gimp-colorize-tool"
+    (stock-id "gimp-tool-colorize")
+    (visible no))
+(GimpToolInfo "gimp-brightness-contrast-tool"
+    (stock-id "gimp-tool-brightness-contrast")
+    (visible no))
+(GimpToolInfo "gimp-threshold-tool"
+    (stock-id "gimp-tool-threshold")
+    (visible no))
+(GimpToolInfo "gimp-levels-tool"
+    (stock-id "gimp-tool-levels")
+    (visible no))
+(GimpToolInfo "gimp-curves-tool"
+    (stock-id "gimp-tool-curves")
+    (visible no))
+(GimpToolInfo "gimp-posterize-tool"
+    (stock-id "gimp-tool-posterize")
+    (visible no))
+(GimpToolInfo "gimp-gegl-tool"
+    (stock-id "gimp-gegl")
+    (visible no))
+
+# end of toolrc

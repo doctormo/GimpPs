@@ -1,0 +1,293 @@
+ #pixmap_path "$HOME/.gimp-2.3/themes/Test/"
+
+# include "rc-file"
+#
+# style <name> [= <name>]
+# {
+#   <option>
+#
+#   stock[<stock_id>] =
+#     {
+#       { <filename> [, <direction> [, <state> [, <size>]]] },
+#       { ... }
+#     }
+# }
+#
+# widget <widget_set> style <style_name>
+# widget_class <widget_class_set> style <style_name>
+
+
+style "gimp-icons"
+{
+stock["gimp-tool-move"] =
+{
+	{ "images/tools/move-tool.png", *, *, "gtk-button" },
+	{ "images/tools/move-tool.png", *, *, * }
+}
+stock["gimp-tool-rect-select"] =
+{
+	{ "images/tools/rectangual-selection-tool.png", *, *, "gtk-button" },
+	{ "images/tools/rectangual-selection-tool.png", *, *, * }
+}
+stock["gimp-tool-ellipse-select"] =
+{
+	{ "images/tools/elliptical-selection-tool.png", *, *, "gtk-button" },
+	{ "images/tools/elliptical-selection-tool.png", *, *, * }
+}
+stock["gimp-tool-free-select"] =
+{
+	{ "images/tools/lasso-tool.png", *, *, "gtk-button" },
+	{ "images/tools/lasso-tool.png", *, *, * }
+}
+stock["gimp-tool-foreground-select"] =
+{
+	{ "images/tools/foreground-selection-tool.png", *, *, "gtk-button"},
+	{ "images/tools/foreground-selection-tool.png", *, *, *}
+}
+stock["gimp-tool-fuzzy-select"] =
+{
+	{ "images/tools/magic-wand-tool.png", *, *, "gtk-button" },
+	{ "images/tools/magic-wand-tool.png", *, *, * }
+}
+stock["gimp-tool-by-color-select"] = #doesn't exist in PS
+{
+	{ "images/tools/stock-tool-by-color-select-22.png", *, *, "gtk-button" },
+	{ "images/tools/stock-tool-by-color-select-22.png", *, *, * }
+}
+
+
+
+stock["gimp-tool-crop"] =
+{
+	{ "images/tools/crop-tool.png", *, *, "gtk-button" },
+	{ "images/tools/crop-tool.png", *, *, * }
+}
+stock["gimp-tool-color-picker"] =
+{
+	{ "images/tools/color-picker-tool.png", *, *, "gtk-button" },
+	{ "images/tools/color-picker-tool.png", *, *, * }
+}
+stock["gimp-tool-heal"] =
+{
+	{ "images/tools/healing-brush-tool.png", *, *, "gtk-button" },
+	{ "images/tools/healing-brush-tool.png", *, *, * }
+}
+stock["gimp-tool-paintbrush"] =
+{
+	{ "images/tools/brush-tool.png", *, *, "gtk-button" },
+	{ "images/tools/brush-tool.png", *, *, * }
+}
+stock["gimp-tool-clone"] =
+{
+	{ "images/tools/clone-stamp-tool.png", *, *, "gtk-button"},
+	{ "images/tools/clone-stamp-tool.png", *, *, *}
+}
+
+stock["gimp-tool-measure"] = 
+{
+      { "images/tools/measure-tool.png", *, *, "gtk-button" },
+      { "images/tools/measure-tool.png", *, *, *            }
+}
+stock["gimp-tool-eraser"] =
+{
+	{ "images/tools/eraser-tool.png", *, *, "gtk-button" },
+	{ "images/tools/eraser-tool.png", *, *, * }
+}
+stock["gimp-tool-pencil"] =
+{
+	{ "images/tools/pencil-tool.png", *, *, "gtk-button" },
+	{ "images/tools/pencil-tool.png", *, *, * }
+}
+
+
+
+
+stock["gimp-tool-align"] = #TODO
+{
+      { "images/tools/layer-align.png", *, *, "gtk-button"},
+	{ "images/tools/layer-align.png", *, *, *}
+}
+stock["gimp-flip-vertical"] = #todo
+{
+	{ "images/stock-flip-vertical-16.png", *, *, "gtk-button" },
+      { "images/stock-flip-vertical-16.png", *, *, * }
+}
+stock["gimp-flip-horizontal"] = #todo
+{
+      { "images/stock-flip-horizontal-16.png", *, *, "gtk-button" },
+	{ "images/stock-flip-horizontal-16.png", *, *, * }
+}
+stock["gimp-histogram"] = #todo
+{
+	{ "images/stock-histogram-22.png", *, *, "gtk-button" },
+	{ "images/stock-histogram-22.png", *, *, * }
+}
+stock["gimp-color-pick-from-screen"] = #todo
+{
+	{ "images/stock-color-pick-from-screen-16.png", *, *, "gtk-button" },
+	{ "images/stock-color-pick-from-screen-16.png", *, *, * }
+}
+stock["gimp-edit"] = #todo
+{
+	{ "images/stock-edit-16.png", *, *, "gtk-button" },
+      { "images/stock-edit-16.png", *, *, *            }
+}
+stock["gimp-tool-brightness-contrast"] = #TODO
+    {
+	{ "images/tools/stock-tool-brightness-contrast-22.png", *, *, "gtk-button" },
+      { "images/tools/stock-tool-brightness-contrast-22.png", *, *, *            }
+    }
+
+
+stock["gimp-tool-airbrush"] = #original gimp blends in well
+{
+	{ "images/tools/airbrush-tool.png", *, *, "gtk-button" },
+	{ "images/tools/airbrush-tool.png", *, *, * }
+}
+
+stock["gimp-tool-blend"] =
+{
+	{ "images/tools/gradient-tool.png", *, *, "gtk-button" },
+	{ "images/tools/gradient-tool.png", *, *, * }
+}
+stock["gimp-tool-bucket-fill"] =
+{
+	{ "images/tools/paint-bucket-tool.png", *, *, "gtk-button"},
+	{ "images/tools/paint-bucket-tool.png", *, *, *}
+}
+
+stock["gimp-tool-blur"] =
+{
+      { "images/tools/blur-tool.png", *, *, "gtk-button" },
+	{ "images/tools/blur-tool.png", *, *, * }
+}
+stock["gimp-tool-dodge"] =
+{
+	{ "images/tools/dodge-tool.png", *, *, "gtk-button" },
+	{ "images/tools/dodge-tool.png", *, *, * }
+}
+stock["gimp-tool-smudge"] =
+{
+	{ "images/tools/smudge-tool.png", *, *, "gtk-button" },
+	{ "images/tools/smudge-tool.png", *, *, * }
+}
+
+stock["gimp-tool-path"] =
+{
+	{ "images/tools/pen-tool.png", *, *, "gtk-button" },
+	{ "images/tools/pen-tool.png", *, *, * }
+}
+
+stock["gimp-tool-text"] = #TODO
+{
+	{ "images/tools/type-tool.png", *, *, "gtk-button" },
+	{ "images/tools/type-tool.png", *, *, * }
+}
+
+stock["gimp-tool-zoom"] =
+{
+	{ "images/tools/zoom-tool.png", *, *, "gtk-button" },
+	{ "images/tools/zoom-tool.png", *, *, * }
+}
+
+
+stock["gimp-stock-zoom-follow-window"] = #TODO
+{
+	{ "images/stock-zoom-follow-window-12.png", *, *, "gtk-button" },
+      { "images/stock-zoom-follow-window-12.png", *, *, *            }
+}
+  stock["gimp-tool-cage"] = #todo
+    {
+	{ "images/tools/tool-cage.png", *, *, "gtk-button" },
+      { "images/tools/tool-cage.png", *, *, *            }
+    }
+  stock["gimp-tool-color-balance"] = #todo
+    {
+      { "images/tools/stock-tool-color-balance-22.png", *, *, "gtk-button" },
+      { "images/tools/stock-tool-color-balance-22.png", *, *, *            }
+    }
+  stock["gimp-tool-curves"] = #todo
+    {
+      { "images/tools/stock-tool-curves-22.png", *, *, "gtk-button" },
+      { "images/tools/stock-tool-curves-22.png", *, *, *            }
+    }
+  
+  
+  stock["gimp-tool-flip"] = #TODO
+    {
+      { "images/tools/tool-flip.png", *, *, "gtk-button" },
+      { "images/tools/tool-flip.png", *, *, *  }
+    }
+
+
+  
+stock["gimp-tool-ink"] = # original gimp blends is nice
+{
+      { "images/tools/tool-ink.png", *, *, "gtk-button" },
+      { "images/tools/tool-ink.png", *, *, *            }
+}
+stock["gimp-tool-iscissors"] =
+{
+	{ "images/tools/magnetic-lasso-tool.png", *, *, "gtk-button" },
+	{ "images/tools/magnetic-lasso-tool.png", *, *, * }
+}
+
+
+# Icons in the Color menu
+  stock["gimp-tool-levels"] = #TODO
+    {
+      { "images/tools/stock-tool-levels-22.png", *, *, "gtk-button" },
+      { "images/tools/stock-tool-levels-22.png", *, *, *            }
+    }
+ stock["gimp-tool-colorize"] = #TODO
+    {
+      { "images/tools/stock-tool-colorize-22.png", *, *, "gtk-button" },
+      { "images/tools/stock-tool-colorize-22.png", *, *, *            }
+    }
+stock["gimp-tool-hue-saturation"] = #TODO
+    {
+      { "images/tools/stock-tool-hue-saturation-22.png", *, *, "gtk-button" },
+      { "images/tools/stock-tool-hue-saturation-22.png", *, *, * }
+    }
+ 
+stock["gimp-tool-perspective-clone"] = # created a look a like icon
+    {
+      { "images/tools/perspective-clone-tool.png", *, *, "gtk-button" },
+      { "images/tools/perspective-clone-tool.png", *, *, *            }
+    }
+
+  #Icons that are not in PS
+  stock["gimp-tool-perspective"] = #TODO
+    {
+      { "images/tools/tool-perspective.png", *, *, "gtk-button" },
+      { "images/tools/tool-perspective.png", *, *, *            }
+    }
+  stock["gimp-tool-posterize"] = #TODO
+    {
+      { "images/tools/stock-tool-posterize-22.png", *, *, "gtk-button" },
+      { "images/tools/stock-tool-posterize-22.png", *, *, *            }
+    }
+  
+  stock["gimp-tool-rotate"] = #TODO
+    {
+      { "images/tools/tool-rotate.png", *, *, "gtk-button" },
+      { "images/tools/tool-rotate.png", *, *, *            }
+    }
+  stock["gimp-tool-scale"] = #TODO
+    {
+      { "images/tools/tool-scale.png", *, *, "gtk-button" },
+      { "images/tools/tool-scale.png", *, *, *            }
+    }
+  stock["gimp-tool-shear"] = #TODO
+    {
+      { "images/tools/tool-shear.png", *, *, "gtk-button" },
+      { "images/tools/tool-shear.png", *, *, *            }
+    }
+  stock["gimp-tool-threshold"] = #TODO
+    {
+      { "images/tools/stock-tool-threshold-22.png", *, *, "gtk-button" },
+      { "images/tools/stock-tool-threshold-22.png", *, *, *            }
+    }
+}
+
+class "GtkWidget" style "gimp-icons"

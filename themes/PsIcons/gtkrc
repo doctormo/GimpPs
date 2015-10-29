@@ -1,0 +1,136 @@
+include "imagerc"
+# pixmap_path "<dir 1>:<dir 2>:<dir 3>:..."
+#
+# include "rc-file"
+#
+# style <name> [= <name>]
+# {
+#   <option>
+# }
+#
+# widget <widget_set>       style <style_name>
+# class  <widget_class_set> style <style_name>
+
+
+style "gimp-default-style"
+{
+  stock["gtk-dialog-error"] =
+    {
+      { "images/stock-error-64.png", *, *, "gtk-dialog" }
+    }
+  stock["gtk-dialog-info"] =
+    {
+      { "images/stock-info-64.png", *, *, "gtk-dialog" }
+    }
+  stock["gtk-dialog-question"] =
+    {
+      { "images/stock-question-64.png", *, *, "gtk-dialog" }
+    }
+  stock["gtk-dialog-warning"] =
+    {
+      { "images/stock-warning-64.png", *, *, "gtk-dialog" }
+    }
+
+# Uncommenting this line allows to set a different (smaller) font for GIMP.
+#
+# font_name = "sans 8"
+
+# Enabling the following line for some reason breaks toolbox resize
+# increment calculation. You can enable it to get an even smaller GUI
+# but need to restart GIMP after the theme change.
+#
+# GtkWidget::focus-padding         = 0
+
+  GtkOptionMenu::indicator-size    = { 5, 11 }
+  GtkOptionMenu::indicator-spacing = { 4, 3, 1, 1 }
+
+  GtkPaned::handle-size             = 5
+  GimpDockWindow::default-height    = 240
+  GimpDock::font-scale              = 0.8333
+  GimpMenuDock::minimal-width       = 200
+  GimpDockWindow::menu-preview-size = small-toolbar
+  GimpToolPalette::tool-icon-size   = menu
+  GimpToolPalette::button-relief    = none
+  GimpDockbook::tab-border          = 0
+  GimpDockbook::tab-icon-size       = menu
+  GimpColorNotebook::tab-border     = 0
+  GimpColorNotebook::tab-icon-size  = menu
+  GimpDeviceEditor::handle-size     = 12
+  GimpDockable::content-border      = 1
+  GimpEditor::content-spacing       = 1
+  GimpEditor::button-spacing        = 1
+  GimpEditor::button-icon-size      = menu
+  GimpDataEditor::minimal-height    = 64
+  GimpFrame::label-spacing          = 2
+  GtkDialog::content-area-border    = 0
+  GtkDialog::button-spacing         = 6
+  GtkDialog::action-area-border     = 12
+  GimpUnitComboBox::appears-as-list = 0
+
+}
+
+class "GtkWidget" style "gimp-default-style"
+
+
+style "gimp-tool-dialog-style" = "gimp-default-style"
+{
+  GtkDialog::action-area-border = 6
+}
+
+class "GimpToolDialog" style "gimp-tool-dialog-style"
+
+
+style "gimp-grid-view-style" = "gimp-default-style"
+{
+  bg[NORMAL] = { 1.0, 1.0, 1.0 }
+}
+
+widget "*GimpContainerGridView*GtkViewport*" style "gimp-grid-view-style"
+
+
+style "gimp-dockable-style" = "gimp-default-style"
+{
+  GimpFrame::label-bold       = 0
+  GtkButton::focus-line_width = 1
+  GtkButton::focus-padding    = 0
+}
+
+widget "*GimpDockable.*" style "gimp-dockable-style"
+
+
+style "gimp-display-style" = "gimp-default-style"
+{
+  GimpRuler::font-scale          = 0.6444
+  GimpUnitComboBox::label-scale  = 0.8333
+  GimpScaleComboBox::label-scale = 0.8333
+  GtkComboBox::arrow-size        = 8
+  GtkButton::inner-border        = { 0, 0, 0, 0 }
+  GtkButton::focus-line-width    = 0
+  GtkButton::focus-padding       = 0
+}
+
+widget "*GimpDisplayShell.*" style "gimp-display-style"
+
+
+style "gimp-overlay-style" = "gimp-display-style"
+{
+  GtkButton::focus-line_width = 1
+}
+
+widget_class "*<GimpOverlayFrame>*" style "gimp-overlay-style"
+
+style "gimp-drop-text-style" = "gimp-default-style"
+{
+  fg[NORMAL] = "#f0f0f0"
+}
+
+widget_class "*GimpPanedBox.GtkLabel" style:highest "gimp-drop-text-style"
+
+style "gimp-empty-image-style" = "gimp-default-style"
+{
+  bg[NORMAL] = "#5c5b5b"
+  fg[NORMAL] = "#575757"
+}
+
+widget_class "*Canv*" style:highest "gimp-empty-image-style"
+

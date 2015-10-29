@@ -1,0 +1,40 @@
+# GIMP gimprc
+# 
+# This is your personal gimprc file.  Any variable defined in this file takes
+# precedence over the value defined in the system-wide gimprc:
+# /etc/gimp/2.0/gimprc
+# Most values can be set within GIMP by changing some options in the
+# Preferences dialog.
+
+(confirm-on-close no)
+(default-view
+    (show-menubar yes)
+    (show-statusbar yes)
+    (show-rulers yes)
+    (show-scrollbars yes)
+    (show-selection yes)
+    (show-layer-boundary yes)
+    (show-guides yes)
+    (show-grid no)
+    (show-sample-points yes)
+    (padding-mode custom)
+    (padding-color (color-rgb 0.360784 0.357955 0.357955)))
+(default-fullscreen-view
+    (show-menubar yes)
+    (show-statusbar yes)
+    (show-rulers yes)
+    (show-scrollbars yes)
+    (show-selection yes)
+    (show-layer-boundary yes)
+    (show-guides yes)
+    (show-grid no)
+    (show-sample-points yes)
+    (padding-mode custom)
+    (padding-color (color-rgb 0.427451 0.427451 0.427451)))
+(save-device-status yes)
+(save-tool-options yes)
+(theme "PsIcons")
+(user-manual-online yes)
+(undo-preview-size small)
+
+# end of gimprc

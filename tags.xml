@@ -1,0 +1,834 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tags>
+
+  <resource identifier="${gimp_data_dir}/brushes/Round.vbr" checksum="a7f02530d3bc7484c8f9240cbe9c65b1">
+    <tag>round</tag>
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Round-Fuzzy.vbr" checksum="f8cb2466841104a55e42afce4568d103">
+    <tag>fuzzy</tag>
+    <tag>round</tag>
+  </resource>
+
+  <resource identifier="gimp-brush-clipboard" checksum="157dcef48665ab465439cfaf10d6feeb">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Basic/1-pixel.vbr" checksum="b22c1fec1056f979b1d17e4cc80e9112">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Basic/Block-01.vbr" checksum="5a8e52d10d9a0cddcc31cf3507a41d06">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Basic/Block-02.vbr" checksum="a6ab0bd0159ddcde4405e9cf0d3a07fc">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Basic/Block-03.vbr" checksum="70399a5e4e39151d23cf365749da49f5">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Basic/Hardness-025.vbr" checksum="0e82572c8b71c4155e7364d66bc0ffce">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Basic/Hardness-050.vbr" checksum="1203f10747c787a9345529a4b5150a5e">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Basic/Hardness-075.vbr" checksum="eaf8d3adf6df55c97dd30aee0a1bba22">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Basic/Hardness-100.vbr" checksum="c67eef177816d6ef25cc790cb54ab9e3">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Basic/Star.vbr" checksum="9f799f34788daa90ffb9cf981226a120">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Media/Acrylic-01.gih" checksum="9ec0779f4c84fb3d0844bcdb069c8e0a">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Media/Acrylic-02.gih" checksum="da0b21c73078882a59430ce68e8860b9">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Media/Acrylic-03.gih" checksum="46c0656093b556418dbcd24de48a2596">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Media/Acrylic-04.gih" checksum="11311bde958533f3b7ada598af5c6d46">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Media/Acrylic-05.gih" checksum="69d6b269dffc2db6a6f44b380aaf1e5e">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Legacy/confetti.gih" checksum="d136b60fdd9cf41693a485a329b32e95">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Media/Bristles-01.gbr" checksum="fdb59dabc3b9fc9716bd87cfe225ba3b">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Media/Bristles-02.gbr" checksum="6432476cb5cb5b5642433465e23f7402">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Media/Bristles-03.gbr" checksum="6162ce91b1218ec8f0f98bfab930d5bf">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Texture/Cell-01.gbr" checksum="4814485c0f5974fa193eb15f710c3d1c">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Texture/Cell-02.gbr" checksum="e5ce74dd25bdd3fc05ab8d930c6f9e44">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Sketch/Chalk-01.gih" checksum="832186dc1b71adbcb2f1a6ba08ce302f">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Sketch/Chalk-02.gih" checksum="27729bcad9c20129add5833bfcba2da8">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Sketch/Chalk-03.gih" checksum="6d195118ceb4102d508eb3faedcf6dcc">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Sketch/Charcoal-01.gbr" checksum="1cd3f9664c688103f0b230299dcf6987">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Sketch/Charcoal-02.gbr" checksum="e77611c1661ab0d3bf4503d3238a5644">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Legacy/confetti.gbr" checksum="ba5a4759cb321b81e232bba3f33dce76">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Legacy/galaxy.gbr" checksum="12ad36cb50383c2d95dbcf446072ee04">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Legacy/galaxy-big.gbr" checksum="afabaf7991e7e812137bb45205acd461">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Texture/Grass.gih" checksum="81d3c86640806e7ad40f5e0c93d941ef">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Media/Oils-01.gbr" checksum="31ae0d62365e54402dcfe80784c6d691">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Media/Oils-02.gbr" checksum="21f2ec5f7d414a2f3fffa97752675f55">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Media/Oils-03.gbr" checksum="0128fe2fd4bdf5894c52c787f742b587">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Sketch/Pencil-01.gih" checksum="775f1ee9e24fd5b71433472a5bf168ef">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Sketch/Pencil-02.gih" checksum="1f5cae22c8f8d30e027ade099c69d34c">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Sketch/Pencil-Scratch.gbr" checksum="4213a17b290fd39a5c6c72d75b1aa4ac">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Basic/pixel.gbr" checksum="ce0705096e61dc0645b2c13a122d8e8f">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Legacy/dunes.gbr" checksum="f0afae839c62535921b0ecabdb7bb998">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Texture/Smoke.gbr" checksum="eb1577def9f3a209b3457a9c99333dd9">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Splatters/Sparks-Hose.gih" checksum="50faf43769ea9c6986fa38839e348b77">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Splatters/Splats-01.gih" checksum="5ce135cbb844ce745db15150c15acde9">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Splatters/Splats-02.gih" checksum="e2352e2b26137b13161a859209e89b95">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Splatters/Sponge-01.gbr" checksum="355cc39ffe2d0fb382a51eb0a806f2bb">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Splatters/Sponge-02.gbr" checksum="4c0798a6621eef155dc86a79fe5df810">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Texture/Structure.gbr" checksum="b1f120a7a427525104d7e16703898b67">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Texture/Texture-01.gbr" checksum="6c41a55e3cfaf5dc03988f05be6106f8">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Texture/Texture-02.gbr" checksum="a2459f434c81d8eefeb063c005db9d80">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Texture/Texture-Hose-01.gih" checksum="c36845a56879e601fbfeada31f5b414b">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Texture/Texture-Hose-02.gih" checksum="bfd5be7b42a28d038930f1aef897320d">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Texture/Texture-Hose-03.gih" checksum="d2818e2a9346edf7c76aeea5a215f5ca">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Texture/Vegetation-01.gbr" checksum="5f180b3d17ee11a9367489f2a597a451">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Texture/Vegetation-02.gih" checksum="6ce358a6a63479e729469f64bc77e361">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Legacy/vine.gih" checksum="3963e1de9cf5ead1f8cb6332b9351c6f">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/brushes/Legacy/pepper.gbr" checksum="70d13804987991dab34140f4cd662644">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/dynamics/Basic-Dynamics.gdyn" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/dynamics/Basic/Basic-Simple.gdyn" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/dynamics/FX/Confetti.gdyn" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/dynamics/Dynamics-Off.gdyn" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/dynamics/Basic/Dynamics-Random.gdyn" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/dynamics/Fade-Tapering.gdyn" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/dynamics/Basic/Negative-Size-Pressure.gdyn" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/dynamics/Basic/Pencil-Generic.gdyn" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/dynamics/Basic/Pencil-Shader.gdyn" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/dynamics/Basic/Pen-Generic.gdyn" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/dynamics/FX/Perspective.gdyn" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/dynamics/Basic/Pressure-Opacity.gdyn" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/dynamics/Random-Color.gdyn" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/dynamics/FX/Speed_Size_Opacity.gdyn" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/dynamics/Tilt-Angle.gdyn" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/dynamics/Track-Direction.gdyn" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/dynamics/Velocity-Tapering.gdyn" checksum="(null)">
+  </resource>
+
+  <resource identifier="gimp-pattern-clipboard" checksum="eff9598f9f61c1dc78d842f1798c2ab8">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/3dgreen.pat" checksum="00052731f14a5bc614daece969b368bc">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/amethyst.pat" checksum="ac004a0215ba837c01964226611635c0">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/blue.pat" checksum="9505c5e2df62d486dfd110eb08d9c022">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/bluegrid.pat" checksum="3ae3c2b4b499381174ccf8a49b8c205f">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/bluesquares.pat" checksum="6ae618f4f9833a1030fbf58c149c7241">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/blueweb.pat" checksum="b737ccf05a59c87cd120cc7a017224e7">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/brick.pat" checksum="1f241d71810da697b596525c50054ee7">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/burlap.pat" checksum="6046ce5617773e56cbc602842cd55124">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/burlwood.pat" checksum="3362a830595ec24c532d25fca6e82841">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/choc_swirl.pat" checksum="8f00b531d09279a0f7aa0c3208e26206">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/corkboard.pat" checksum="e0e344790d5425d5afe695b9b67b9a51">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/cracked.pat" checksum="31e59d7417cb4ef2dddd53cf2e136b2d">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Craters.pat" checksum="6286edd005a095e1d20209bd8c63c130">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/crinklepaper.pat" checksum="b53d9e73d9c352e6cc4c94be921ba4d2">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/ground1.pat" checksum="00f690561e89d65d4b1257f0823b9977">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/electric.pat" checksum="c81aa3894d24289215497524598da855">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/fibers.pat" checksum="2830a6fc5f66e85493efedb4d4c6a84c">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/granite1.pat" checksum="c6220b4ee84951282053d96da7c0df91">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/ice.pat" checksum="3248a69c033c15e46356a9ecb996c652">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/java.pat" checksum="e66740db4790b501508b84b780a4158b">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/leather.pat" checksum="18fae1b0cb726162fda4c8a850ce6665">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/leopard.pat" checksum="e8518a613d2df2bfa1ce16c6f19380c0">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/lightning.pat" checksum="e53b923bdeccd742866cc836127b53cb">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/leaves.pat" checksum="991d0263a630f7d9379f3181cc5cf4dd">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/marble1.pat" checksum="7cca1d947b97e995440affa1a70e7afb">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/marble2.pat" checksum="b703250ff7bf9a13e0bf1cc7b951e8b4">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/marble3.pat" checksum="188e4483a8ad8d7adad18cb7475f2d4c">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/nops.pat" checksum="8e398be1aaa1b1ac6392ebb5a8dd5831">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Moonfoot.pat" checksum="690271aaafee910dfc7b3fe2888c65cd">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/paper.pat" checksum="460447543ed49484ecf388d14d123eb8">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/parque1.pat" checksum="f7d5acd98b59f7830ea3b1afe92d29e6">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/parque2.pat" checksum="0b6e61665a81c96478faa1e4fe0af354">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/parque3.pat" checksum="a99fdcc9bc2814e7d51e05faeb07ec85">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/pastel.pat" checksum="9173341213573b8c87467733c34078ba">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/pine.pat" checksum="52fc540af9e485c532b96f3b2724ad74">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/wood2.pat" checksum="615a4ea243b717b73605569459aed362">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/pink_marble.pat" checksum="51a9ca43d2baf5243cb79d8a2f4db20f">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/pool.pat" checksum="b4f48469ab59632276d2b4d9af9dbde8">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/qube1.pat" checksum="3b96b82e490bea730e17dd752ffb7bc9">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/rain.pat" checksum="8babfb520276b39f918aa059ca1594be">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/recessed.pat" checksum="2743a836d39c547e0d83de27bffb45c1">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/redcube.pat" checksum="f64dee0efbc2fa301d7b4f3903a68308">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/rock.pat" checksum="93bc028e503811f0908f4de70681b733">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/sky.pat" checksum="78ffe7ed45f4cd89859a653debebc84c">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/slate.pat" checksum="fb10d3127362b61330e77ced0edddd7e">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/sm_squares.pat" checksum="4ba7d3135d74ec48bca8ee42c9645866">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/starfield.pat" checksum="b21a6bc688e62e02d16150fd5c2a3afe">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/stone33.pat" checksum="002ee5669bd46d09a642853bfd3a543f">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Stripes2px.pat" checksum="7a5292735452fc15bf789fa3ea064ad2">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/Stripes1px.pat" checksum="7343d6b31434a2e736de3c5ab5197424">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/terra.pat" checksum="45c52055d10cc53a7a280777e6b76382">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/bark.pat" checksum="3d9dffc8833fe742b90c1a1f2f87e76c">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/walnut.pat" checksum="56b154ad68b400a4b62c62f314e278d4">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/warning.pat" checksum="bacf4a9e22fb7e97d705739ebf1aa205">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/wood5.pat" checksum="9a3b13cfc2d4a3b18bd7754506fe9ac6">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/wood3.pat" checksum="08109cffa79e14773e39e2390af5bc40">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/wood4.pat" checksum="2040255fdf70572e7d79395a7b191dd6">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/patterns/wood1.pat" checksum="0c055f250ddbccc1b32d05f8c0ad7012">
+  </resource>
+
+  <resource identifier="gimp-gradient-fg-bg-rgb" checksum="12ad9439c57e897e50fb0399439e5b2b">
+  </resource>
+
+  <resource identifier="gimp-gradient-fg-bg-hsv-cw" checksum="86589f70c8a7777c6e2d1d14b99e3759">
+  </resource>
+
+  <resource identifier="gimp-gradient-fg-bg-hsv-ccw" checksum="65aacbbd72d99ff20ca1bd310f0a21a5">
+  </resource>
+
+  <resource identifier="gimp-gradient-fg-bg-rgb" checksum="4a878c6cfae0b0e03c0834723daadf92">
+  </resource>
+
+  <resource identifier="gimp-gradient-fg-transparent" checksum="1491f74caf057a39c8193470da2d2a29">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Abstract_1.ggr" checksum="edaa7d1fc882ab813b75b49ee9272913">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Abstract_2.ggr" checksum="3e6332a87dc9021be25a01ea217d12f0">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Abstract_3.ggr" checksum="edef536ca9974a1fee7bc280c4fa9158">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Aneurism.ggr" checksum="10d0afd25892733e4c8a71e7714c0a3c">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Blinds.ggr" checksum="672688a7f97c746e27b995645d893f81">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Blue_Green.ggr" checksum="ad7afdd77e95fb0cbc7b68627715aa13">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Browns.ggr" checksum="d24a91392f3b5c5e34dedc8d1fc6bfa0">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Brushed_Aluminium.ggr" checksum="8995cf0de6e9f5082a4bc879dc77ebd0">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Burning_Paper.ggr" checksum="5aaed0c7692abe7cbfb75744b7967828">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Burning_Transparency.ggr" checksum="ab6a58127b01c77ea378b97585d2d3cb">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Caribbean_Blues.ggr" checksum="899e32a0cf94010dff9e1f93579f4292">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/CD.ggr" checksum="aa4627507fb28c79bb1d864f2ae3eeaa">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/CD_Half.ggr" checksum="6f70875e41cc69d68b7a0e7d9d5652bf">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Coffee.ggr" checksum="a3407a154e1b875fe1858b57279db00f">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Cold_Steel.ggr" checksum="656bc3893f6e7bbbaa9be0ee3a4a7c9f">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Cold_Steel_2.ggr" checksum="b3b5c2560412ea9316116320f112ad9a">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Crown_molding.ggr" checksum="e7fe6c14bf776c1564601bfc024d066e">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Dark_1.ggr" checksum="57d6882650122320fe4a212c59de06a2">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Deep_Sea.ggr" checksum="35b112cb987f0429da4350512b5db0fa">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Default.ggr" checksum="ddc8841f60246138068a49dc22875804">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Flare_Glow_Angular_1.ggr" checksum="4775a8280fbceeb59cf3859e084c28a1">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Flare_Glow_Radial_1.ggr" checksum="e8c3d4029f64c368baa3ac8cd7bf8146">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Flare_Glow_Radial_2.ggr" checksum="a557cd5278add08e372475d3d99f3e39">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Flare_Glow_Radial_3.ggr" checksum="d86591dec258e8fdbb28732de345495c">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Flare_Glow_Radial_4.ggr" checksum="f2eefd542fe04bd56e7218842684aee7">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Flare_Radial_101.ggr" checksum="c7d51a864108ab38c58737a3f5d8284a">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Flare_Radial_102.ggr" checksum="7763a8e71fac97f6cb07a3cf6c64ecc2">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Flare_Radial_103.ggr" checksum="8f23721fa4910404f217b40d51085b60">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Flare_Rays_Radial_1.ggr" checksum="3bf791c725e2d7f85a0aff0a93ac66d0">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Flare_Rays_Radial_2.ggr" checksum="860f6ab9ab1b89fa2d58796e74bdcd77">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Flare_Rays_Size_1.ggr" checksum="24a92724aafd292d8d3725efb13141b6">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Flare_Sizefac_101.ggr" checksum="25f8ce37bf87e02514c8b23860dc53c8">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Four_bars.ggr" checksum="514b2159057ba680eee275d1048c4d31">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Full_saturation_spectrum_CCW.ggr" checksum="9011005e2f8cd96b67c62502052451bf">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Full_saturation_spectrum_CW.ggr" checksum="173d8c6a0d6569643cc542afb229100f">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Golden.ggr" checksum="34dfd5f7d4f5ab094d948d4ceae29d20">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Greens.ggr" checksum="5ebfe1d2748811b766d270fcb8e01250">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Horizon_1.ggr" checksum="8a64cd7cc03774fa5db60196b63ed078">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Horizon_2.ggr" checksum="fad2e75f788e11c33397bea983573904">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Incandescent.ggr" checksum="79b1b20641e619ee702f36bf8f15f2df">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Land_1.ggr" checksum="2b31219738304a84f3079973558559d7">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Land_and_Sea.ggr" checksum="870b89e11b32ddabbe66baf3bb44c36a">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Metallic_Something.ggr" checksum="f829f3ca70599ad84228dfb991049e6e">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Nauseating_Headache.ggr" checksum="c37ede154a94fa2c3f5efc3770b82c0d">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Neon_Cyan.ggr" checksum="2054a504a44d4c418d83a102eeee80ce">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Neon_Green.ggr" checksum="877576a7cfb92930f47e1c7d5ac405c1">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Neon_Yellow.ggr" checksum="94b17fbb263aeef75dee98a28675f81e">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Pastel_Rainbow.ggr" checksum="b981aa364dcf5f78c3f46e4bc6b83866">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Pastels.ggr" checksum="23adc56dc00bd4ebf7f70ed1ed9cd539">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Purples.ggr" checksum="2bd5415782982a935493fa803f195df4">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Radial_Eyeball_Blue.ggr" checksum="04a114e3016ccc4f50bed7ed449aba98">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Radial_Eyeball_Brown.ggr" checksum="a2c47e5a3971db798c478931271769bf">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Radial_Eyeball_Green.ggr" checksum="64e7005a98fc4cd5e7b3a09026a99976">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Radial_Glow_1.ggr" checksum="46b460d2125043e52fe69ef2a5e38cf8">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Radial_Rainbow_Hoop.ggr" checksum="db1c3eae2bf94a0c8558cd525dcb0074">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Rounded_edge.ggr" checksum="ab62d43581cfbaa9a31286e4197f5acc">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Shadows_1.ggr" checksum="8e67174c5e65cb36187087c10dae4f05">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Shadows_2.ggr" checksum="b810d88b1460235d91b78c3bafdf4706">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Shadows_3.ggr" checksum="cbed6bf71e079f00d2d38e7d103c118e">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Skyline.ggr" checksum="c84395a0afbee5a141bb99f949de277e">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Skyline_polluted.ggr" checksum="7d2722640649ec4574bfa5f943842d88">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Square_Wood_Frame.ggr" checksum="57c49346591e4919910c05e662656936">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Sunrise.ggr" checksum="346584511d4125dc8b6ca89db2915755">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Three_bars_sin.ggr" checksum="43fad05fbc9a509c6ac81e7133a182c0">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Tropical_Colors.ggr" checksum="1931abcf7e88967e8350ed3523b2e6ef">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Tube_Red.ggr" checksum="0d9bcc63aed51e02f133df0446b8fa7d">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Wood_1.ggr" checksum="5cacfc0d19e98c156eb4b726ac05efa0">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Wood_2.ggr" checksum="4f0609c7376dd30634170a8e0dbd2499">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Yellow_Contrast.ggr" checksum="81e37626d2b0c9556bb4bbafd80a905f">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/gradients/Yellow_Orange.ggr" checksum="428584726006e23e260baa2a7d79f295">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Bears.gpl" checksum="e82e818c20ac12bdd21049924ea2d1e7">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Bgold.gpl" checksum="346622db0138429b0fab8b5d79d8a95c">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Blues.gpl" checksum="16906e712e0573b8562ed5220298502b">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Borders.gpl" checksum="3bc2921d2c89edc115ab7f42896c0c01">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Browns_And_Yellows.gpl" checksum="d642210b147ec6b2b3f7d4d00bce6448">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Caramel.gpl" checksum="1edf264a8bc4a91b1bef64a5ad4c854d">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Cascade.gpl" checksum="54c05cc23d1e73d73adb4fa9846c80b2">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/China.gpl" checksum="05c14acb0d2ba92d317ea3d7e94d63f1">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Coldfire.gpl" checksum="1ed0c4895cf5473479ae25e798008094">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Cool_Colors.gpl" checksum="8fc00f172559e702a5ab9680013b0554">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Cranes.gpl" checksum="cb2e9acc0ed26521d3aed8948aa0d4e8">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Dark_pastels.gpl" checksum="8fa7a69d183b2f1b41397d27dfa10a89">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Default.gpl" checksum="b8d8754cf636809b474b501e4c540788">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Ega.gpl" checksum="a8842755eb6e9534d89bc4dfa360ea91">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Firecode.gpl" checksum="31da06a142dbb7e290ecae399da8c198">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Gold.gpl" checksum="69156b66cb39a691e8ee92824facfc74">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Grayblue.gpl" checksum="50e95752c59ed66f2871533b48ad80f7">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Grays.gpl" checksum="fcf5e6f9da0fbc46bac07d34741fd648">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/GrayViolet.gpl" checksum="3a200b1b9ca7f3b7bcebc70fe4a4832e">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Greens.gpl" checksum="c74e6275e9e921dcc64870a670697fa0">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Hilite.gpl" checksum="9cecfa2be285ac84b832335b8d32d915">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Khaki.gpl" checksum="cbcc5d547c2000f8639efa68d4f6f18e">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Lights.gpl" checksum="3483aee51ec01db06b41463903da53f9">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Muted.gpl" checksum="24bc023216795f2eb722546696d3082d">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Named_Colors.gpl" checksum="9ab88f7333eb4d71a2adb8af16053d68">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/News3.gpl" checksum="d45d654d154d6b7c3ce7e3b7635e863d">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Op2.gpl" checksum="082035d380a34e045f0548df4d44f82f">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Paintjet.gpl" checksum="2c4f4c6e46d18ebd62e38912b1df6b68">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Pastels.gpl" checksum="c17b8c554459325319934d120fc3daec">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Plasma.gpl" checksum="086d1d645e1fec277ae99bb351dc59de">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Reds.gpl" checksum="cd1ed47383e48553e0702a7a554fa3fd">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Reds_And_Purples.gpl" checksum="c0bc2a7991d9c65ea9d19f9c5c47e8b1">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Royal.gpl" checksum="c2afa124f653f4253d94e225c926c94a">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Tango.gpl" checksum="0c31eccdd183d0ae24778f1b1e527018">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Topographic.gpl" checksum="7281433871d8c0904cfe2975424fbdc9">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Visibone.gpl" checksum="83236d5917dddacdc89d228e503db053">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Visibone_2.gpl" checksum="a6ecc8ab9898c86dc03eb58ab6dcb3b9">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Volcano.gpl" checksum="1d1fd8e110046e9f33e7be9ef7fe8d7b">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Warm_Colors.gpl" checksum="de9eb66b02c0eaa5d6ee4ee30638e91d">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/palettes/Web.gpl" checksum="f02e8dfa23d01d6acfbab7f895c2dd16">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Paint/Airbrush.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Paint/Basic-Knife.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Paint/Basic-Round.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Paint/Basic-Round-Detail.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Sketch/Blue-Pen.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Paint/Bristles.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Selection/Circle-200px.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/FX/Crop-16-9.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/FX/Crop-Composition.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Paint/Eraser-Hard.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Sketch/Eraser-Soft.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Selection/Feathered-Selection.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/FX/Fill-Paper.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/FX/FX-Confetti.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/FX/FX-Radial-Softlight.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/FX/Glow-Lights.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Sketch/Ink-Smooth.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Sketch/Ink-Thin.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Paint/Noise.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Sketch/Pencil.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Sketch/Pencil-Soft.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/FX/Smooth-Clone.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Paint/Smudge-Rough.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Paint/Smudge-Soft.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Paint/Soft-Oil.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Paint/Splatters.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Paint/Structure.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/Paint/Vegetal.gtp" checksum="(null)">
+  </resource>
+
+  <resource identifier="${gimp_data_dir}/tool-presets/FX/Vignette.gtp" checksum="(null)">
+  </resource>
+</tags>

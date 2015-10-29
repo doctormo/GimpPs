@@ -1,0 +1,14 @@
+# GIMP user context
+
+(tool "gimp-bucket-fill-tool")
+(paint-info "gimp-paintbrush")
+(foreground (color-rgb 1.000000 1.000000 1.000000))
+(background (color-rgb 0.000000 0.000000 0.000000))
+(brush "2. Hardness 050")
+(dynamics "Pressure Opacity")
+(pattern "Pine")
+(gradient "FG to BG (RGB)")
+(palette "Default")
+(font "Sans")
+
+# end of user context
