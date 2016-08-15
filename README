@@ -1,0 +1,8 @@
+To help a fellow deviant, I've put together a download that anyone with Gimp 2.8 on Linux can use to make their copy of Gimp look more like Adobe Photoshop and make people more comfortable.
+
+I've taken various bits of guides online and various tweaks.
+All you have to do is download the file, unzip it.
+Then in the file manager go to your home folder, show hidden files, delete or move your old .gimp-2.8 configuration folder out of the way, and replace with the new one.
+Then load Gimp.
+
+Please let me know if it works for you or if it fails.
