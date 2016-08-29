@@ -33,3 +33,10 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/doctormo/GimpPs/master/too
 ```shell
 sh -c "$(wget https://raw.githubusercontent.com/doctormo/GimpPs/master/tools/install.sh -O -)"
 ```
+
+### Mac installation
+
+	# exit gimp first
+	cd $HOME/Library/Application\ Support/GIMP
+	mv 2.8 2.8.backup
+	git clone --depth=1 https://github.com/doctormo/GimpPs.git 2.8
