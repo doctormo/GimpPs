@@ -34,7 +34,7 @@ main() {
 
   version='2.8'
   gimp_path_version_string=$($gimp_path --version)
-  if echo "$gimp_path_version_string" | grep -qv "version $version"; then
+  if echo "$gimp_path_version_string" | grep -qvF "$version"; then
     printf "${YELLOW}Gimp version is not installed!${NORMAL} Please install Gimp $version first!\n"
     exit 1
   fi
