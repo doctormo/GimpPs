@@ -11,11 +11,9 @@ Please let me know if it works for you or if it fails.
 
 ### Prerequisites
 
-__Disclaimer:__ _GimpPs works best on OS X and Linux._
+__Disclaimer:__ _GimpPs supports Windows, but works best on OS X and Linux._
 
-* Unix-based operating system (OS X or Linux)
 * Gimp `2.8`
-* `curl` or `wget` should be installed
 * `git` should be installed
 
 ### Basic Installation
@@ -40,3 +38,19 @@ sh -c "$(wget https://raw.githubusercontent.com/doctormo/GimpPs/master/tools/ins
 	cd $HOME/Library/Application\ Support/GIMP
 	mv 2.8 2.8.backup
 	git clone --depth=1 https://github.com/doctormo/GimpPs.git 2.8
+
+### Windows installation
+
+#### via powershell:
+
+	# exit gimp first
+	cd $Env:UserProfile
+	mv .gimp-2.8 .gimp-2.8.backup
+	git clone --depth=1 https://github.com/doctormo/GimpPs.git .gimp-2.8
+
+#### via cmd:
+
+	# exit gimp first
+	cd %USERPROFILE%
+	ren .gimp-2.8 .gimp-2.8.backup
+	git clone --depth=1 https://github.com/doctormo/GimpPs.git .gimp-2.8
