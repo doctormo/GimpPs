@@ -21,7 +21,6 @@ main() {
     BOLD=""
     NORMAL=""
   fi
-
   # Only enable exit-on-error after the non-critical colorization stuff,
   # which may fail on systems lacking tput or terminfo
   set -e
@@ -54,7 +53,7 @@ main() {
   fi
 
   env git clone --depth=1 https://github.com/doctormo/GimpPs.git $gimp_ps_directory || {
-    printf "Error: git clone of oh-my-zsh repo failed\n"
+    printf "Error: git clone of GimpPs repo failed\n"
     exit 1
   }
 
