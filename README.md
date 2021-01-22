@@ -54,4 +54,4 @@ sh -c "$(wget https://raw.githubusercontent.com/doctormo/GimpPs/master/tools/ins
 	cd %USERPROFILE%
 	ren .gimp-2.8 .gimp-2.8.backup
 	git clone --depth=1 https://github.com/doctormo/GimpPs.git .gimp-2.8
-People generally get biased in the discussion of GIMP Vs Photoshop but they don't know how powerful GIMP really is.You can do all the effects of you use GIMP Wisely.
+People generally get biased in the discussion of GIMP Vs Photoshop but they don't know how powerful GIMP really is. You can do all the effects of you use GIMP Wisely.
