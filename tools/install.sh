@@ -31,7 +31,7 @@ main() {
     exit 1
   fi
 
-  version='2.8'
+  version='2.10'
   gimp_path_version_string=$($gimp_path --version)
   if echo "$gimp_path_version_string" | grep -qvF "$version"; then
     printf "${YELLOW}Gimp version is not installed!${NORMAL} Please install Gimp $version first!\n"
@@ -44,7 +44,7 @@ main() {
     exit 1
   }
 
-  gimp_ps_directory="$HOME/.gimp-$version"
+  gimp_ps_directory="$HOME/.config/GIMP/$version"
 
   # Backup previous directory, if any
   if [ -e "$gimp_ps_directory" ]; then
